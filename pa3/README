@@ -1,0 +1,25 @@
+
+/***********************************************
+ * Aidan Smith, aipsmith@ucsc.edu              *
+ * CSE101, Fall Quarter, November 17th, 2019   *
+ * pa3: README - file descriptor               *
+ ***********************************************/
+
+ Makefile         - The makefile.
+
+ Arithmetic.c     - The main function that uses the BigInteger ADT to 
+                    interact with files in order to read long numbers and
+                    perform preset operations on them.
+
+ BigInteger.c     - The BigInteger ADT that manages the BigInteger operations.
+
+ BigInteger.h     - The header file to the BigInteger ADT.
+
+ BigIntegerTest.c - The test file to the BigInteger ADT.
+
+ List.c           - The List ADT that manages the lower level
+                    operations that make up the BigInteger operations.
+
+ List.h           - The header file to the List ADT.
+
+ ListTest.c       - The test file to the List ADT.

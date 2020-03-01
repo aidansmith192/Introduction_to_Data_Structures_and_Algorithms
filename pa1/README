@@ -1,0 +1,19 @@
+
+/**********************************************
+ * Aidan Smith, aipsmith@ucsc.edu             *
+ * CSE101, Fall Quarter, October 13th, 2019   *
+ * pa1: README - file descriptor              *
+ **********************************************/
+
+ Makefile     - The makefile
+
+ Lex.c        - The main function that uses the List ADT to 
+                interact with other files in order to sort
+                a files lines alphabetically.
+
+ List.c       - The List ADT that manages the storing and
+                altering of data.
+
+ List.h       - The header file to the List ADT.
+
+ ListClient.c - Given test client.

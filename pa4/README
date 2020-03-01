@@ -1,0 +1,23 @@
+
+/***********************************************
+ * Aidan Smith, aipsmith@ucsc.edu              *
+ * CSE101, Fall Quarter, November 29th, 2019   *
+ * pa4: README - file descriptor               *
+ ***********************************************/
+
+ Makefile    - The makefile.
+
+ FindPath.c  - The main function that uses the Graph ADT to 
+               interact with files in order to read in a set of verticies
+               and edges, and then print out a preset algorithm.
+
+ Graph.c     - The Graph ADT that manages the Graph operations.
+
+ Graph.h     - The header file to the Graph ADT.
+
+ GraphTest.c - The test file to the Graph ADT.
+
+ List.c      - The List ADT that manages the lower level
+               operations that make up the Graph operations.
+
+ List.h      - The header file to the List ADT.

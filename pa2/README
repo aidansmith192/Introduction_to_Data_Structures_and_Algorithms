@@ -1,0 +1,27 @@
+
+/**********************************************
+ * Aidan Smith, aipsmith@ucsc.edu             *
+ * CSE101, Fall Quarter, October 30th, 2019   *
+ * pa2: README - file descriptor              *
+ **********************************************/
+
+ Makefile     - The makefile
+
+ Sparse.c      - The main function that uses the Matrix ADT to 
+                interact with other files in order to sort
+                a files lines alphabetically.
+
+ Matrix.c     - The Matrix ADT that manages the matrix operations.
+
+ Matrix.h     - The header file to the Matrix ADT.
+
+ MatrixTest.c - The test file to the Matrix ADT.
+
+ List.c       - The List ADT that manages the lower level
+                operations that make up the matrix operations.
+
+ List.h       - The header file to the List ADT.
+
+ ListTest.c   - The test file to the List ADT.
+
+ ListClient.c - Given test client.
